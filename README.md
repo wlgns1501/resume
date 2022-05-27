@@ -9,7 +9,7 @@
 - 📧 E-mail: wlgns1501@gmail.com
 
 - 😍 Github: [https://github.com/wlgns1501](https://github.com/wlgns1501)
-- 🏠 Blog: [https://wlgns1501.github.io/](https://wlgns1501.github.io/)
+- 🏠 Blog: [https://wlgns1501.github.io](https://wlgns1501.github.io)
 
 ---
 
@@ -119,9 +119,7 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 
 ## Certificates
 
-### MOS 파워 포인트, 엑셀 자격증 취득
-
-2021.06
+### MOS 파워 포인트, 엑셀 자격증 취득 || 2021.06
 
 ---
 
