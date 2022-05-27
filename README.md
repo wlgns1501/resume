@@ -44,8 +44,6 @@ _유익한 정보를 공유할 수 있는 공간_ , **Info Market** ( 📎 [배
 
 [팀원, 백엔드] TypeScript, Node.js, Express, Mysql, AWS(EC2)
 
----
-
 - Point 충전을 위한 Iamport API 테스트 모드를 이용한 단일 결제 시스템
 - 유료 게시물 작성을 위한 회원 등급제
 - Point를 이용한 게시물 구매 및 환불
@@ -63,8 +61,6 @@ _에러로그를 작성하고 공유 하는 공간_, **DebugNote** ( 📎 [배�
 [코드스테이츠] 퍼스트 프로젝트
 
 [팀장, 백엔드] Node.js, Express, Mysql, AWS(EC2)
-
----
 
 - JWT 인증을 통한 로그인 기능
 - 사용자의 게시물에 대한 소통을 위한 게시물 댓글
