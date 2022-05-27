@@ -4,6 +4,7 @@
 
 <img src="/images/me.JPG" width="200" height="250" />
 
+- 👨‍💻 Name : 유지훈
 - 📲 Mobile: 010-2046-5645
 - 📧 E-mail: wlgns1501@gmail.com
 
@@ -33,12 +34,12 @@
 
 ## Projects
 
+### Info Market
+
 2022.04.18 - 2022.05.18
 코드스테이츠
 파이널 프로젝트
 (4인/4주)
-
-### Info Market
 
 _유익한 정보를 공유할 수 있는 공간_ , **Info Market** ( 📎 [배포](http://info-market-client.s3-website.ap-northeast-2.amazonaws.com/) | [깃헙](https://github.com/wlgns1501/info-market-1) | [회고](https://wlgns1501.github.io/diary/Final_03/) )
 
@@ -52,15 +53,17 @@ _유익한 정보를 공유할 수 있는 공간_ , **Info Market** ( 📎 [배
 - 유료 게시물의 검증을 위한 관리자 게시물 인증 기능
 - 사용자가 원하는 게시물을 찾기 위한 게시물 검색 기능
 
-  2022.04.04 - 2022.04.15
+---
+
+### DebugNote
+
+2022.04.04 - 2022.04.15
 
 코드스테이츠
 퍼스트 프로젝트
 (4인/2주)
 
-### DebugNote
-
-\*에러로그를 작성하고 공유 하는 공간, **DebugNote\*** ( 📎 [배포](http://debugnote-client.s3-website.ap-northeast-2.amazonaws.com/) | [깃헙](https://github.com/wlgns1501/DebugNote-1) | [회고](https://wlgns1501.github.io/diary/first_project/) )
+_에러로그를 작성하고 공유 하는 공간_, **DebugNote** ( 📎 [배포](http://debugnote-client.s3-website.ap-northeast-2.amazonaws.com/) | [깃헙](https://github.com/wlgns1501/DebugNote-1) | [회고](https://wlgns1501.github.io/diary/first_project/) )
 
 **[팀장, 백엔드] Node.js, Express, Mysql, AWS(EC2)**
 
