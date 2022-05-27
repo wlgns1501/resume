@@ -58,7 +58,7 @@ _유익한 정보를 공유할 수 있는 공간_ , **Info Market** ( 📎 [배
 
 _에러로그를 작성하고 공유 하는 공간_, **DebugNote** ( 📎 [배포](http://debugnote-client.s3-website.ap-northeast-2.amazonaws.com/) | [깃헙](https://github.com/wlgns1501/DebugNote-1) | [회고](https://wlgns1501.github.io/diary/first_project/) )
 
-[기간]2022.04.04 - 2022.04.15
+[기간] 2022.04.04 - 2022.04.15
 
 [코드스테이츠] 퍼스트 프로젝트
 
