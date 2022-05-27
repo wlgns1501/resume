@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/images/me.JPG" width="200" height="300" />
+<img src="/images/me.JPG" width="200" height="250" />
 
 - 📲 Mobile: 010-2046-5645
 - 📧 E-mail: wlgns1501@gmail.com
