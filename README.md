@@ -78,8 +78,7 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 
 2021.12 - 2022.05
 
-- Javascript 기반으로 풀스택 과정 학습
-- 프론트엔드는 React, 백엔드는 Node.js 학습
+- 프론트엔드 React, 백엔드 Node.js 풀스택 과정 학습
 - 20주 동안 매일 알고리즘 문제 풀이
 - 20주 동안 매일 강도 높은 과제 수행 및 페어 프로그래밍과 코드 리뷰 경험
 - 협업 프로젝트 2회 진행
