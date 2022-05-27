@@ -79,6 +79,7 @@ _에러로그를 작성하고 공유 하는 공간_, **DebugNote** ( 📎 [배�
 ### 코드스테이츠 (Code States)
 
 Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼](https://www.codestates.com/course/backend-engineering)
+
 2021.12 - 2022.05
 
 - Javascript 기반으로 풀스택 과정 학습
