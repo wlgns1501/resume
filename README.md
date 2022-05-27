@@ -76,11 +76,10 @@ _에러로그를 작성하고 공유 하는 공간_, **DebugNote** ( 📎 [배�
 
 ## Education
 
-2021.12 - 2022.05
-
 ### 코드스테이츠 (Code States)
 
 Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼](https://www.codestates.com/course/backend-engineering)
+2021.12 - 2022.05
 
 - Javascript 기반으로 풀스택 과정 학습
 - 프론트엔드는 React, 백엔드는 Node.js 학습
@@ -88,9 +87,9 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 - 20주 동안 매일 강도 높은 과제 수행 및 페어 프로그래밍과 코드 리뷰 경험
 - 협업 프로젝트 2회 진행
 
-  2014.03 - 2022.07
-
 ### 건국대학교 글로컬캠퍼스
+
+2014.03 - 2022.07
 
 경영학 전공
 
@@ -102,18 +101,18 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 
 ## Studies
 
-2022.04 ~ 2022.05
-
 ### 알고리즘 및 미니 프로젝트 스터디
+
+2022.04 ~ 2022.05
 
 - 스터디 장
 - 회의를 통해 계획 및 일정 수정
 - 프로그래머스 레벨 1 ~ 2 주 1회 씩 1 ~ 2 문제 풀기
 - 트위터 클론 코딩
 
-  2021.04 - 2021.12
-
 ### 웹 개발 동아리 멋쟁이 사자처럼
+
+2021.04 - 2021.12
 
 - 웹 개발 ‘멋쟁이 사자처럼' 동아리 활동
 - HTML, CSS, Python, Django 공부
@@ -123,9 +122,9 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 
 ## Certificates
 
-2021.06
-
 ### MOS 파워 포인트, 엑셀 자격증 취득
+
+2021.06
 
 ---
 
@@ -135,16 +134,6 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 
 ### 미국 어학 연수
 
-- 2017.01 ~ 2018.01
+2017.01 ~ 2018.01
 
 ---
-
-<aside>
-💡 **노션을 예쁘게 PDF로 export 하는 방법**
->> **Full width** 체크하고 **'A3'**로 export 해야 예쁘게 PDF로 만들어집니다.
-
-- 노션은 A4로 export하면 글자가 커지며 지저분하게 나옵니다.
-- 가로로 글자들을 배치하는 경우, 같은 줄인데도 높이가 어긋나는 경우가 생깁니다. 이는 **글자 크기 차이 때문**입니다.
-  예를 들어, 왼쪽은 일반 Text이고 우측은 Heading3 인 경우, 높이 차이가 생깁니다. 이런 경우엔 **shift+Enter** 를 사용해서 높이를 보정할 수 있습니다.
-
-</aside>
