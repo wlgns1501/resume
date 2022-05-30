@@ -6,12 +6,12 @@
 
 <img src="/images/me.JPG" width="200" height="250" />
 
-- 👨‍💻 Name : 유지훈
-- 📲 Mobile: 010-2046-5645
-- 📧 E-mail: wlgns1501@gmail.com
+- Name : 유지훈
+- Mobile: 010-2046-5645
+- E-mail: wlgns1501@gmail.com
 
-- 😍 Github: [https://github.com/wlgns1501](https://github.com/wlgns1501)
-- 🏠 Blog: [https://wlgns1501.github.io](https://wlgns1501.github.io)
+- Github: [https://github.com/wlgns1501](https://github.com/wlgns1501)
+- Blog: [https://wlgns1501.github.io](https://wlgns1501.github.io)
 
 ---
 
