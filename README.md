@@ -2,6 +2,8 @@
 
 ---
 
+## Contact
+
 <img src="/images/me.JPG" width="200" height="250" />
 
 - 👨‍💻 Name : 유지훈
@@ -13,11 +15,13 @@
 
 ---
 
+## Introduce
+
 - 끊임없는 소통을 하는 개발자
 - 협력으로 문제를 해결하는 개발자
 - 책임감이 강한 개발자
-- 새로운 것에 두려움이 없는 개발자
-- 영어가 무섭지 않는 개발자
+- 새로운 것을 반기는 개발자
+- 영어가 원활한 개발자
 
 ---
 
@@ -75,9 +79,9 @@ _에러로그를 작성하고 공유 하는 공간_, **DebugNote** ( 📎 [배�
 
 ### 코드스테이츠 (Code States)
 
-Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼](https://www.codestates.com/course/backend-engineering)
+[기간] 2021.12 - 2022.05
 
-2021.12 - 2022.05
+[활동] Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼](https://www.codestates.com/course/backend-engineering)
 
     - 프론트엔드 React, 백엔드 Node.js 풀스택 과정 학습
     - 20주 동안 매일 알고리즘 문제 풀이
@@ -86,9 +90,9 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 
 ### 건국대학교 글로컬캠퍼스
 
-경영학 전공
+[기간] 2014.03 - 2022.07
 
-2014.03 - 2022.07
+[활동] 경영학 전공
 
     - 웹 개발 ‘멋쟁이 사자처럼' 동아리 활동
     - 컴퓨터 네트워크, 자료구조, 인공지능의이해, 프로그래밍 활용 수강
@@ -100,7 +104,7 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 
 ### 알고리즘 및 미니 프로젝트 스터디
 
-2022.04 ~ 2022.05
+[기간] 2022.04 - 2022.05
 
     - 스터디 장
     - 회의를 통해 계획 및 일정 수정
@@ -109,7 +113,7 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 
 ### 웹 개발 동아리 멋쟁이 사자처럼
 
-2021.04 - 2021.12
+[기간] 2021.04 - 2021.12
 
     - 웹 개발 ‘멋쟁이 사자처럼' 동아리 활동
     - HTML, CSS, Python, Django 공부
@@ -118,18 +122,10 @@ Software engineering, Immersive program (37기) [코드스테이츠 커리큘럼
 
 ---
 
-## Certificates
-
-### MOS 파워 포인트, 엑셀 자격증 취득
-
-    2021.06
-
----
-
 ## Languages
 
 ### 미국 어학 연수 🇺🇸
 
-    2017.01 ~ 2018.01
+    2017.01 - 2018.01
 
 ---
