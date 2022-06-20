@@ -17,11 +17,11 @@
 
 ## Introduce
 
-- 끊임없는 소통을 하는 개발자
-- 협력으로 문제를 해결하는 개발자
-- 책임감이 강한 개발자
-- 새로운 것을 반기는 개발자
-- 영어가 원활한 개발자
+- 끊임없는 소통을 하고 협력으로 문제를 해결합니다.
+- 협력으로 문제를 해결하는 것에 성취감을 느낍니다.
+- 주어진 업무에 책임감이 강하여 목표를 달성하기 위해 최선을 다해 노력합니다.
+- 새로운 문제을 해결하는 것과 새로운 스택을 경험하는 것을 즐깁니다.
+- 영어가 원활한 사용가능하여 개발언어 학습이 원활합니다.
 
 ---
 
@@ -41,7 +41,7 @@
 
 ### Info Market
 
-_유익한 정보를 공유할 수 있는 공간_ , **Info Market** ( 📎 [배포](http://info-market-client.s3-website.ap-northeast-2.amazonaws.com/) | [깃헙](https://github.com/wlgns1501/info-market-1) | [회고](https://wlgns1501.github.io/diary/Final_03/) )
+_유익한 정보를 공유할 수 있는 공간_ , **Info Market** ( 📎 [배포](http://info-market-client.s3-website.ap-northeast-2.amazonaws.com/) | [깃헙](https://github.com/wlgns1501/info-market) | [회고](https://wlgns1501.github.io/diary/Final_03/) )
 
 [기간] 2022.04.18 - 2022.05.18
 
@@ -59,7 +59,7 @@ _유익한 정보를 공유할 수 있는 공간_ , **Info Market** ( 📎 [배
 
 ### DebugNote
 
-_에러로그를 작성하고 공유 하는 공간_, **DebugNote** ( 📎 [배포](http://debugnote-client.s3-website.ap-northeast-2.amazonaws.com/) | [깃헙](https://github.com/wlgns1501/DebugNote-1) | [회고](https://wlgns1501.github.io/diary/first_project/) )
+_에러로그를 작성하고 공유 하는 공간_, **DebugNote** ( 📎 [배포](http://debugnote-client.s3-website.ap-northeast-2.amazonaws.com/) | [깃헙](https://github.com/wlgns1501/DebugNote) | [회고](https://wlgns1501.github.io/diary/first_project/) )
 
 [기간] 2022.04.04 - 2022.04.15
 
